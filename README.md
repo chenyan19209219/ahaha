@@ -1,4 +1,4 @@
-![Uploading IDE安装素材.png…]()
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 主页｜🛠 插件 VS Code, Jetbrains｜🤗 模型下载｜📄 论文｜👋 加入微信开发者交流群
 
 Read this in English
